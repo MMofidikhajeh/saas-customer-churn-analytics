@@ -5,6 +5,8 @@
 Predicts customer churn with **97.8% ROC-AUC** and provides plain-English, actionable explanations for retention teams using SHAP. Built to bridge predictive modeling with real-world business decision-making.
 
 ---
+![Alt text]()
+---
 
 ## Business Problem & Key Insights
 SaaS companies lose 5-7% of annual revenue to silent churn. This project identifies at-risk customers *before* they leave and explains **why**, enabling targeted retention strategies.
@@ -50,3 +52,55 @@ SaaS companies lose 5-7% of annual revenue to silent churn. This project identif
 
 ## How It Works (Explainability)
 Instead of a "black box" prediction, the app uses **SHAP values** to map model outputs back to real customer data:
+CHURN RISK ALERT: Customer #847
+Predicted Churn Probability: 88.2%
+TOP 3 DRIVERS:
+• Last Login Days Ago: 45 ➔ This strongly INCREASES churn risk.
+• Support Tickets: 6 ➔ This strongly INCREASES churn risk.
+• Contract Type: Month-to-Month ➔ This strongly INCREASES churn risk.
+
+---
+
+## 🛠️ Run Locally
++ Clone the repository
+```console
+git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
+cd YOUR_REPO
+```
++ Install dependencies
+```console
+pip install -r requirements.txt
+```
+
++ Launch the app
+```console
+streamlit run app.py
+```
+
+---
+
+## Contributing
+
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
+Don't forget to give the project a star! Thanks again!
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+---
+
+## License
+
+Distributed under the MIT License. See `LICENSE.txt` for more information.
+
+---
+
+## Contact
+Mohammad Mofidi
+* Email: mohammad.mofidi.k@gmail.com
+* Linkedin: https://www.linkedin.com/in/mohammad-mofidikhajeh
