@@ -1,6 +1,6 @@
 # SaaS Customer Churn Predictor & Business Explainer
 
-**[Try the Live App on Hugging Face]([https://huggingface.co/spaces/Mofidi80/saas-churn-predictor])**
+**[Try the Live App on Hugging Face](https://huggingface.co/spaces/Mofidi80/saas-churn-predictor)**
 
 Predicts customer churn with **97.8% ROC-AUC** and provides plain-English, actionable explanations for retention teams using SHAP. Built to bridge predictive modeling with real-world business decision-making.
 
