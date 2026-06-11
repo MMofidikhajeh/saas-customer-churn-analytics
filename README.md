@@ -5,7 +5,7 @@
 Predicts customer churn with **97.8% ROC-AUC** and provides plain-English, actionable explanations for retention teams using SHAP. Built to bridge predictive modeling with real-world business decision-making.
 
 ---
-![Alt text]()
+![Alt text](https://github.com/MMofidikhajeh/saas-customer-churn-analytics/blob/a6c11647f96511764eaf14ae7b1fbcc83a3dbc75/blob/saas2.gif)
 ---
 
 ## Business Problem & Key Insights
