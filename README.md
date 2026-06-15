@@ -29,7 +29,7 @@ SaaS companies lose 5-7% of annual revenue to silent churn. This project identif
 
 ---
 
-## 🚀 Project Pipeline
+## Project Pipeline
 1. **Data Ingestion & EDA**: Analyzed 15K+ customer records to identify behavioral and demographic churn drivers.
 2. **Feature Engineering**: Created business-aligned metrics (`engagement_score`, `support_intensity`, `contract_risk`).
 3. **Model Training**: Trained XGBoost classifier with `scale_pos_weight` to handle class imbalance.
@@ -38,7 +38,7 @@ SaaS companies lose 5-7% of annual revenue to silent churn. This project identif
 
 ---
 
-## 📊 Model Performance
+## Model Performance
 | Metric | Score |
 |--------|-------|
 | **ROC-AUC** | 0.978 |
@@ -61,7 +61,7 @@ TOP 3 DRIVERS:
 
 ---
 
-## 🛠️ Run Locally
+## Run Locally
 + Clone the repository
 ```console
 git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
